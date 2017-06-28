@@ -10,4 +10,19 @@ The original authors of the patterns are credited on Subtle Patterns. Subtle Pat
 
 [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) © 2017 [Toptal](https://www.toptal.com).
 
+Screenshots
+ 1) download these files
+ 
+       ![2017-06-28](https://user-images.githubusercontent.com/26691915/27627408-5012c778-5c09-11e7-9ac8-b9d368f53b74.png)
+       
+ 2) open demo.html
+ 
+ 3) now you can see any of the designe  before applying to your work
+
+
+       ![2017-06-28 2](https://user-images.githubusercontent.com/26691915/27627481-9a245048-5c09-11e7-86b3-67f8f82bb0e4.png)
+
+
+BEST OF LUCK!!
+
 
